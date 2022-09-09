@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Luke Welday
  *        Date: 09/09/2022
- * Description: Add Description
+ * Description: Program will output "Hello Git!!"
  */
 
 #include <iostream>
